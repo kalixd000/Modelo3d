@@ -3,10 +3,28 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
-
 }
 body{
     line-height: 1.7;
+    background-color: #dce8ffaf;
+
+}
+img {
+     padding: 4rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+       width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+img2 {
+     padding: 4rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+       width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-position: left;
 }
 p2{
     font-size: 1.1rem;
